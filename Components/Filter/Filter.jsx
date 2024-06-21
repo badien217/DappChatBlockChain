@@ -40,7 +40,7 @@ const Filter = () => {
             openBox={setAddFriend}
             title="WELCOME TO"
             head="CHAT BUDDY"
-            info="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum sit doloribus quod vel expedita, dicta voluptatibus, nemo, deserunt minima quis recusandae porro officiis modi fugiat libero tempora corporis necessitatibus itaque!"
+            info="Welcome to the D-Talk website, where we provide you with a private space to chat, message, and do what you like without prying eyes. Security, safety, and simplicity are what you'll find at D-Talk. So why hesitate? Sign up and experience our services today!"
             smallInfo="Kindley Select Your Friend Name & Address.."
             image={images.hero}
             functionName={addFriends}

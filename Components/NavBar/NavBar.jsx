@@ -129,7 +129,7 @@ const NavBar = () => {
             openBox={setOpenModel}
             title="WELCOME TO"
             head="CHAT BUDDY"
-            info="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate maxime assumenda exercitationem voluptatibus, vero aliquid in tempore aut, impedit dolores voluptate recusandae nulla fuga? Praesentium iusto mollitia sint fugit! Placeat?"
+            info="Welcome to the D-Talk website, where we provide you with a private space to chat, message, and do what you like without prying eyes. Security, safety, and simplicity are what you'll find at D-Talk. So why hesitate? Sign up and experience our services today!"
             smallInfo="Kindley seclet your name..."
             image={images.hero}
             functionName={createAccount}
